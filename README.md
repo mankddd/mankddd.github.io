@@ -1,2 +1,2 @@
-mdxlabs.github.io
+mdxlabs.github.com
 
